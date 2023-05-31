@@ -23,11 +23,9 @@ This repository contains a Node.js application that can be used to write and sav
 
 ## Walkthrough
 
-The following video demonstrates the functionality of the SVG logo maker and a throw error when user input is invalid: 
+The following image demonstrates the functionality of the note taker: 
 
-link: [see video ]()
-
-![mockup]()
+![mockup](./Develop/public/assets/images/deployed.gif)
 
 
 <a name="instalation"></a>
@@ -59,7 +57,7 @@ This project is licensed under the following license:
 
 ## Contributing
 
-This repository is open source and contributions are welcome. If you have any ideas for improvements, please feel free to open an issue or submit a pull request.
+This repository is open source with the starter code form the edeX bootcamp and contributions are welcome. If you have any ideas for improvements, please feel free to open an issue or submit a pull request.
 
 
 <a name="questions"></a>
